@@ -77,12 +77,13 @@
 <div align="center">
  <h3>Some Cool Github Stats:</h3> 
 </div>
-<h3 align="left">Github@talhaz6</h3> 
+<h3 align="left">Github@<a href="https://github.com/talhaz6">Talhaz6</a></h3> 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=talhaz6&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaz6&theme=dark" />
 </p>
-<h3 align="left">Github@ztalha6</h3> 
+
+<h3 align="left">Github@<a href="https://github.com/ztalha6">ztalha6</a></h3> 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ztalha6&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ztalha6&theme=dark" />
