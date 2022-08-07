@@ -33,10 +33,10 @@
 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Flutter , DevOps And Open Source Projects</b></li>
+    <li>👯 I'm Looking to Collaborate on  <b>Flutter , NodeJS And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
-    <li>🌱 I’m currently learning <b>Flutter, Devops and DSA<b></li>
-    <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
+    <li>🌱 I’m currently learning <b>Flutter, NodeJS<b></li>
+    <li>🥅 2022 Goals: Contribute more to Open Source projects and Content Creation</li>
     <li>💬 Ask me anything about <a href="https://discord.com/users/999634986481225768">here</a>! I'm always open to help!</li>
     <li>😄 Pronouns: **He/Him** 💁‍</li>
     <li>⚡ Fun fact: Sometimes I got disapear for traveling! :owl:</li>
